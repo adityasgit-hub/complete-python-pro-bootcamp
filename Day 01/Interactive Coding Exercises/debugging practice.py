@@ -10,9 +10,9 @@ print(("New lines can be created with a backslash and n.")
 
 #missing quotation mark after the opening parenthesis.
 print("Day 1 - String Manipulation")
-#either convert the string's double-inverted commas to single-inverted commas or the plus operator's double-inverted commas to single-inverted commas.
+#outer double quotes changed to single quotes.
 print('String Concatenation is done with the "+" sign.')
-#no identation required.
+#extra identation removed.
 print('e.g. print("Hello " + "world")')
-#double paranthesis after the word print.
+#extra opening paranthesis in print function removed.
 print("New lines can be created with a backslash and n.")
