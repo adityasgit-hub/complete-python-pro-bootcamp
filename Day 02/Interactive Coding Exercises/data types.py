@@ -1,3 +1,3 @@
-num = input("Enter a two digit number: ")
-sum = int(num[0]) + int(num[1])
+num = int(input("Enter a two digit number: "))
+sum = num[0] + num[1]
 print(sum)
