@@ -6,7 +6,7 @@ if height >= 120:
   age = int(input("Enter your age: "))
   if age < 12:
     print("You need to pay ₹600/-")
-  elif age >= 12 and age <= 18:
+  elif age <= 18:
     print("You need to pay ₹800/-")
   else:
     print("You need to pay ₹1200/-")
