@@ -5,7 +5,7 @@ for n in range(0, len(student_heights)):
 # 🚨 Don't change the code above 👆
 
 
-#Write your code below this row 👇
+# Write your code below this row 👇
 total_height = 0
 student = 0
 for height in student_heights:
