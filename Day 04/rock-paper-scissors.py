@@ -27,7 +27,7 @@ scissors = '''
 ---.__(___)
 '''
 
-#Write your code below this line 👇
+# Write your code below this line 👇
 
 choices = [rock, paper, scissors]
 user = int(input("What do you choose? Enter 0 for Rock, 1 for Paper, or 2 for Scissors.\n"))
