@@ -7,7 +7,7 @@ in_letters = int(input("How many letters would you like in your password?\n"))
 in_symbols = int(input("How many symbols would you like?\n"))
 in_numbers = int(input("How many numbers would you like?\n"))
 
-#Eazy Level
+# Eazy Level
 # password = ""
 
 # for char in range(1, in_letters + 1):
@@ -21,7 +21,7 @@ in_numbers = int(input("How many numbers would you like?\n"))
 
 # print(password)
 
-#Hard Level
+# Hard Level
 password_list = []
 
 for char in range(1, in_letters + 1):
